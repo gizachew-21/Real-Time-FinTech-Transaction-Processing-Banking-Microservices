@@ -1,6 +1,6 @@
-# Fintech-Finance-Banking-Application
+# Real-Time-FinTech-Transaction-Processing-Banking-Microservices
 
-Welcome to the Fintech Finance Banking Application repository! This project is a comprehensive banking application developed to handle various banking operations such as account management, transactions, payments, deposit, withdrawn and more.
+Welcome to theReal-Time-FinTech-Transaction-Processing-Banking-Microservices repository! This project is a comprehensive banking application developed to handle various banking operations such as account management, transactions, payments, deposit, withdrawn and more.
 
 ## Table of Contents
 
@@ -15,7 +15,7 @@ Welcome to the Fintech Finance Banking Application repository! This project is a
 
 ## Project Overview
 
-The Fintech Finance Banking Application is designed to provide users with a seamless banking experience. It allows users to sign-in/login account with email verification, add new account for existing user, manage their finances, transfer money, check transaction and payment history, and perform other banking operations securely.
+The Real-Time-FinTech-Transaction-Processing-Banking-Microservices is designed to provide users with a seamless banking experience. It allows users to sign-in/login account with email verification, add new account for existing user, manage their finances, transfer money, check transaction and payment history, and perform other banking operations securely.
 
 ## Features
 - User Registration and Authentication: Secure user registration and login functionality.
