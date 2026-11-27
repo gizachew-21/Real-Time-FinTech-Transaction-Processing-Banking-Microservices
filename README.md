@@ -43,7 +43,7 @@ Steps
 
 1. Clone the repository to your local machine:
    ```sh
-   git clone https://github.com/deep1020/Fintech-Finance-Banking-Application.git
+   git clone https://github.com/gizachew-21/Real-Time-FinTech-Transaction-Processing-Banking-Microservices.git
    ```
 2. Set up the database:
    - Create a MySQL database named Fintech_Finance_Database.
